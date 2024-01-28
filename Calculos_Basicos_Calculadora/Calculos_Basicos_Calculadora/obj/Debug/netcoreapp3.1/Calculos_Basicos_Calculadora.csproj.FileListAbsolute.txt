@@ -1,0 +1,32 @@
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.exe
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.deps.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.runtimeconfig.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.runtimeconfig.dev.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.csprojAssemblyReference.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.Form1.resources
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.Properties.Resources.resources
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.csproj.GenerateResource.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.AssemblyInfoInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.AssemblyInfo.cs
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.genruntimeconfig.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.exe
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.deps.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.runtimeconfig.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.runtimeconfig.dev.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\bin\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.Form1.resources
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.Properties.Resources.resources
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.csproj.GenerateResource.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.AssemblyInfoInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.AssemblyInfo.cs
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.csproj.CoreCompileInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculos_Basicos_Calculadora\Calculos_Basicos_Calculadora\obj\Debug\netcoreapp3.1\Calculos_Basicos_Calculadora.genruntimeconfig.cache
